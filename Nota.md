@@ -9,6 +9,9 @@ Aqui yace el personaje
 
 ![pers](./personaje.jpg)
 
+Su amigo
+
+![pulpo](/pulpo.jpg)
 <style>
 body{
     background: lightgrey;
