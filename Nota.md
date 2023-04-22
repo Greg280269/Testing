@@ -13,6 +13,10 @@ Este personaje usaba una prenda única
 
 ![chaqueta](/chaqueta.jpg)
 
+Se compro una chaqueta nueva
+
+![](jacket-coat-stroke-by-Vexels.svg)
+
 <style>
 body{
     background: lightgrey;
