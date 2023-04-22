@@ -17,6 +17,11 @@ Se compro una chaqueta nueva
 
 ![](jacket-coat-stroke-by-Vexels.svg)
 
+
+Tambien tiene un amigo
+
+![pulpo](/pulpo.jpg)
+>>>>>>> universo7
 <style>
 body{
     background: lightgrey;
