@@ -21,7 +21,8 @@ Se compro una chaqueta nueva
 Tambien tiene un amigo
 
 ![pulpo](/pulpo.jpg)
->>>>>>> universo7
+---
+Gracias por leer esta historia
 <style>
 body{
     background: lightgrey;
