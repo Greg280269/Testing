@@ -9,6 +9,10 @@ Aqui yace el personaje
 
 ![pers](./personaje.jpg)
 
+Este personaje usaba una prenda única
+
+![chaqueta](/chaqueta.jpg)
+
 <style>
 body{
     background: lightgrey;
